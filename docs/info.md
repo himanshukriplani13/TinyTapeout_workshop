@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Its a simple test circuit with an AND and OR gate to perform simple combinational logic to turn specific LED's ON
 
 ## How to test
 
