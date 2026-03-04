@@ -13,7 +13,7 @@ Its a simple test circuit with an AND and OR gate to perform simple combinationa
 
 ## How to test
 
-Explain how to use your project
+Simple play around with the input switches and observe which LEDs turn on at the output.
 
 ## External hardware
 
